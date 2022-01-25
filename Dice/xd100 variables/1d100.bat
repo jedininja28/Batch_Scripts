@@ -1,0 +1,3 @@
+@ECHO OFF
+SET /A R0=%Random%/327+1
+ECHO  %R0%
